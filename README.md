@@ -1,1 +1,2 @@
-Tổng hợp Script của DyRian
+Dyriania Hub
+made by dyrian
